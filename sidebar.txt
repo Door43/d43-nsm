@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nsm:home|Door43 (nsm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nsm|d43-nsm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nsm/archive/master.zip|d43-nsm.zip]]
+
+**Recent Changes**
+{{changes>ns = nsm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nsm|Ethnologue data]]
+
